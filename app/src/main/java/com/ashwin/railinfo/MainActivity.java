@@ -1,4 +1,4 @@
-package com.ashwin.githubclientandroid;
+package com.ashwin.railinfo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

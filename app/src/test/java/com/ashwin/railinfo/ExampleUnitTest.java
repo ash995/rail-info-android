@@ -1,4 +1,4 @@
-package com.ashwin.githubclientandroid;
+package com.ashwin.railinfo;
 
 import org.junit.Test;
 

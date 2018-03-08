@@ -1,4 +1,4 @@
-package com.ashwin.githubclientandroid;
+package com.ashwin.railinfo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
