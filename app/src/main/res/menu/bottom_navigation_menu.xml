@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_pnr"
+        android:enabled="true"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="PNR"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menu_train_between_stations"
+        android:enabled="true"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Between stations"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menu_seat_availability"
+        android:enabled="true"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Seat Availability"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menu_live_status"
+        android:enabled="true"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Live Status"
+        app:showAsAction="ifRoom"/>
+</menu>

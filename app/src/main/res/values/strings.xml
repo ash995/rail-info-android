@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RailInfo</string>
+    <string name="pnr_header_label">Passenger Current Status Enquiry</string>
+    <string name="pnr_text">Enter the PNR for your booking to get the current status of your booking</string>
+    <string name="enter_pnr_hint">Enter PNR here</string>
+    <string name="pnr_submit_text">submit</string>
 </resources>
