@@ -86,4 +86,7 @@ dependencies {
     //mockito
     testCompile "org.mockito:mockito-all:$rootProject.ext.mockitoVersion"
 
+    //android Job (evernote)
+    compile 'com.evernote:android-job:1.2.4'
+
 }

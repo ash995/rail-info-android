@@ -25,11 +25,14 @@ public class HomeActivity extends AppCompatActivity {
 
         BottomNavigationViewHelper.disableShiftMode(bottomNavigationView);
 
+        bottomNavigationView.setSelectedItemId(R.id.menu_pnr);
+
         bottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
                 switch (item.getItemId()) {
                     case R.id.menu_pnr:
+
                         break;
                     case R.id.menu_train_between_stations:
                         break;
